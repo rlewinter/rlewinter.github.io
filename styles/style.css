@@ -1,0 +1,14 @@
+p, li {
+	color: red;
+}
+html {
+	background-color: #FFFFFF;
+}
+h1 {
+	margin: 1;
+	letter-spacing: 3px;
+}
+h2 {
+	margin: 0;
+	color: #42069F;
+}
